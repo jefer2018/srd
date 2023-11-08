@@ -14,6 +14,7 @@
 	  "aimbotOnHH": true,
 	  "aimbotOnZM": true,
           "aimbotOnUSPH": true,
+          "aimbotOnFATAL": true,
 	  "ScoottaimbotOn": false,
 	  "NeoxtaimbotOn": false,
 	  "NeoxUtaimbotOn": true,
