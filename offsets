@@ -11,6 +11,7 @@
       "versionRadar": "1.2",
 	  "DDKey": "0x0",
 	  "aimbotOn": true,
+          "aimbotOnRadar": true,
 	  "aimbotOnHH": true,
 	  "aimbotOnZM": true,
           "aimbotOnUSPH": true,
