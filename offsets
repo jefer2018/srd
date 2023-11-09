@@ -11,7 +11,7 @@
       "versionValoROX": "07.09",
       "versionRadar": "1.2",
 	  "DDKey": "0x0",
-	  "aimbotOn": false,
+	  "aimbotOn": true,
           "aimbotOnRadar": true,
 	  "aimbotOnHH": false,
 	  "aimbotOnZM": false,
