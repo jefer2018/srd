@@ -76,7 +76,7 @@
         "outline_enemy_color": "0x8BA4F50",	
         "last_submit_time": "0x380",			
         "last_render_time": "0x384",
-	"inventory": "0x138",
+	"inventory": "0x9a8",
         "current_equipable": "0x248",
         "ammo_info": "0xFB0",
         "max_ammo": "0x140",
