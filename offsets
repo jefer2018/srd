@@ -39,7 +39,7 @@
         "PlayerCameraManager": "0x480",
         "MyHUD": "0x478",
         "AcknowledgedPawn": "0x468",
-        "PlayerState": "0x3e0",
+        "PlayerState": "0x3f8",
         "TeamComponent": "0x630",
         "TeamID": "0xF8",
         "UniqueID": "0x38",
