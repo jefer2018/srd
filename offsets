@@ -92,6 +92,7 @@
         "NamesKey": "0x91134F8",
 		"NamesState": "0x91134c0",
         "FNamePool": "0xA56BF40",
+        "FresnelComponent": "0x870",
         "FresnelIntesity": "0x1c4"
 		
   },
