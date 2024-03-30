@@ -86,7 +86,7 @@
 		"ViewInfo": "0x1FB0",
 		"CameraRotation": "0x128C",
 		"PortraitMinimapComponent": "0x11A8",
-		"CharacterMinimapComponent": "0x11b0",
+		"CharacterMinimapComponent": "0x11B0",
 		"LocalObserver": "0x530",
 		"IsVisible": "0x501",
         "NamesKey": "0x91134F8",
