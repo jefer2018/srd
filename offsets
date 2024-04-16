@@ -83,7 +83,7 @@
         "max_ammo": "0x140",
         "current_ammo": "0x11c", 
         "ObjID": "0x18",
-		"ViewInfo": "0x1FB0",
+		"ViewInfo": "0x1F80",
 		"CameraRotation": "0x128C",
 		"PortraitMinimapComponent": "0x11A8",
 		"CharacterMinimapComponent": "0x11B0",
