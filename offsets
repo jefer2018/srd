@@ -45,7 +45,7 @@
         "UniqueID": "0x38",
         "FNameID": "0x18",
         "Spiketime": "0x4C4",
-        "SpikeProgress": "0x510",
+        "SpikeProgress": "0x4F0",
         "AActorArray": "0xa0",
         "AActorCount": "0xa8",
         "RootComponent": "0x238",
