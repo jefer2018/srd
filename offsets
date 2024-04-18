@@ -66,7 +66,7 @@
         "uworld": "0x60",
         "vgBase": "0x7ECE0",
         "gamestate": "0x140",
-        "ControlRotation": "0x448",
+        "ControlRotation": "0x428",
         "outline_mode": "0x398",		
         "attach_children": "0x110",		
         "attach_children_count": "0x118",		
