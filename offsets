@@ -45,7 +45,7 @@
         "UniqueID": "0x38",
         "FNameID": "0x18",
         "Spiketime": "0x4C4",
-        "SpikeProgress": "0x4e0",
+        "SpikeProgress": "0x4E0",
         "AActorArray": "0xa0",
         "AActorCount": "0xa8",
         "RootComponent": "0x238",
@@ -91,7 +91,7 @@
 		"IsVisible": "0x501",
         "NamesKey": "0x91134F8",
 		"NamesState": "0x91134c0",
-        "FNamePool": "0xAA964C0",
+        "FNamePool": "0xAAE7CC0",
         "FresnelComponent": "0x870",
         "FresnelIntesity": "0x1c4"
 		
