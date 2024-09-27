@@ -64,7 +64,7 @@
         "BoneArrayCache": "0x5C8",
         "BoneCount": "0x5E0",
         "uworld": "0x60",
-        "vgBase": "0x8ACB0",
+        "vgBase": "0x79DF0",
         "gamestate": "0x140",
         "ControlRotation": "0x428",
         "outline_mode": "0x398",		
