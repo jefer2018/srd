@@ -54,7 +54,7 @@
         "MeshComponent": "0x418",
         "DamageHandler": "0x9e8",
         "DamageSections": "0x198",
-        "DamageType": "0x128",
+        "DamageType": "0x12A",
         "HP": "0x134",
         "MaxHP": "0x138",
         "bIsDormant": "0x100",
