@@ -52,7 +52,7 @@
         "RelativeLocation": "0x164",
         "RelativeRotation": "0x170",
         "MeshComponent": "0x418",
-        "DamageHandler": "0x9f0",
+        "DamageHandler": "0x9F0",
         "DamageSections": "0x198",
         "DamageType": "0x12A",
         "HP": "0x134",
@@ -91,7 +91,7 @@
 		"IsVisible": "0x501",
         "NamesKey": "0x91134F8",
 		"NamesState": "0x91134c0",
-        "FNamePool": "0xAD3BF80",
+        "FNamePool": "0xAD8C880",
         "FresnelComponent": "0x870",
         "FresnelIntesity": "0x1c4"
 		
