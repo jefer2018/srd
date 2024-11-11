@@ -93,7 +93,11 @@
 		"NamesState": "0x91134c0",
         "FNamePool": "0xAD8C880",
         "FresnelComponent": "0x870",
-        "FresnelIntesity": "0x1c4"
+        "FresnelIntesity": "0x1c4",
+        "qword_v5": "0x83D30",
+	"qword_v6": "0x83EA0",
+	"byte": "0x83DE0",
+        "ShadowData": "0x83D18"
 		
   },
   "characters":[],
