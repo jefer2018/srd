@@ -97,7 +97,7 @@
         "qword_v5": "0x83D30",
 	"qword_v6": "0x83EA0",
 	"byte": "0x83DE0",
-        "ShadowData": "0x83D18"
+        "ShadowData": "0x83D98"
 		
   },
   "characters":[],
