@@ -46,6 +46,7 @@
         "FNameID": "0x18",
         "Spiketime": "0x4cc",
         "SpikeProgress": "0x4e8",
+        "SpawnedCharacter": "0x8f0",
         "AActorArray": "0xa0",
         "AActorCount": "0xa8",
         "RootComponent": "0x238",
