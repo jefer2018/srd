@@ -53,7 +53,7 @@
         "RelativeLocation": "0x164",
         "RelativeRotation": "0x170",
         "MeshComponent": "0x418",
-        "DamageHandler": "0x9F0",
+        "DamageHandler": "0x9e8",
         "DamageSections": "0x198",
         "DamageType": "0x12A",
         "HP": "0x134",
