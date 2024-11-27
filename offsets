@@ -98,7 +98,8 @@
         "qword_v5": "0x83DB0",
 	"qword_v6": "0x83F20",
 	"byte": "0x83E60",
-        "ShadowData": "0x83D98"
+        "ShadowData": "0x83D98",
+        "WorldState": "0xAF30580"
 		
   },
   "characters":[],
