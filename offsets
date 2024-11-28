@@ -93,14 +93,14 @@
         "NamesKey": "0x91134F8",
 		"NamesState": "0x91134c0",
         "FNamePool": "0xADE8280",
-        "FNameState": "0xae1b240",
+        "FNameState": "0xAE1B240",
         "FresnelComponent": "0x870",
         "FresnelIntesity": "0x1c4",
         "qword_v5": "0x83DB0",
 	"qword_v6": "0x83F20",
 	"byte": "0x83E60",
         "ShadowData": "0x83D98",
-        "WorldState": "0xAE1B240"
+        "WorldState": "0xB03BC40"
 		
   },
   "characters":[],
