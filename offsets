@@ -92,15 +92,15 @@
 		"IsVisible": "0x501",
         "NamesKey": "0x91134F8",
 		"NamesState": "0x91134c0",
-        "FNamePool": "0xAE3EC80",
-        "FNameState": "0xAE71C40",
+        "FNamePool": "0xAE3C740",
+        "FNameState": "0xAE6F700",
         "FresnelComponent": "0x870",
         "FresnelIntesity": "0x1c4",
-        "qword_v5": "0x83DB0",
-	"qword_v6": "0x83F20",
-	"byte": "0x83E60",
-        "ShadowData": "0x83D98",
-        "WorldState": "0xB092640"
+        "qword_v5": "0x84DC0",
+	"qword_v6": "0x84F30",
+	"byte": "0x84E70",
+        "ShadowData": "0x84DA8",
+        "WorldState": "0xB090100"
 		
   },
   "characters":[],
