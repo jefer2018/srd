@@ -100,7 +100,8 @@
 	"qword_v6": "0x84F30",
 	"byte": "0x84E70",
         "ShadowData": "0x84DA8",
-        "WorldState": "0xAE1B240"
+        "WorldState": "0xAE1B240",
+        "WorldPointer": "0x9A6DE70"
 		
   },
   "characters":[],
