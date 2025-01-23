@@ -92,8 +92,8 @@
 		"IsVisible": "0x501",
         "NamesKey": "0x91134F8",
 		"NamesState": "0x91134c0",
-        "FNamePool": "0xAEA0200",
-        "FNameState": "0xAED31C0",
+        "FNamePool": "0xAF28FC0",
+        "FNameState": "0xAF5BF80",
         "FresnelComponent": "0x870",
         "FresnelIntesity": "0x1c4",
         "qword_v5": "0x84DC0",
@@ -101,7 +101,7 @@
 	"byte": "0x84E70",
         "ShadowData": "0x84DA8",
         "WorldState": "0xAE1B240",
-        "WorldPointer": "0x9A6DE70"
+        "WorldPointer": "0x9ADCE70"
 		
   },
   "characters":[],
