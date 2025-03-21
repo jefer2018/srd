@@ -53,7 +53,7 @@
         "RelativeLocation": "0x164",
         "RelativeRotation": "0x170",
         "MeshComponent": "0x418",
-        "DamageHandler": "0x9E8",
+        "DamageHandler": "0x9F8",
         "DamageSections": "0x198",
         "DamageType": "0x12A",
         "HP": "0x134",
@@ -100,8 +100,8 @@
 	"qword_v6": "0x84F30",
 	"byte": "0x84E70",
         "ShadowData": "0x84DA8",
-        "WorldState": "0xAE1B240",
-        "WorldPointer": "0x9C72E40"
+        "WorldState": "0x9D84AC0",
+        "WorldPointer": "0x9D84AC0"
 		
   },
   "characters":[],
