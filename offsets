@@ -96,10 +96,10 @@
         "FNameState": "0xB3B6040",
         "FresnelComponent": "0x870",
         "FresnelIntesity": "0x1c4",
-        "qword_v5": "0x82AE0",
-	"qword_v6": "0x82C50",
-	"byte": "0x82B90",
-        "ShadowData": "0x812C8",
+        "qword_v5": "0x71B60",
+	"qword_v6": "0x71CD0",
+	"byte": "0x71C10",
+        "ShadowData": "0x71B48",
         "WorldState": "0xB587D40",
         "WorldPointer": "0x9E9AFF0"
 		
